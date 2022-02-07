@@ -9,7 +9,7 @@
       "@hooks/*": ["./hooks/*"],
       "@types/*": ["./types/*"],
       "@utils/*": ["./utils/*"],
-      "@contants/*": ["./contants/*"]
+      "@constants/*": ["./constants/*"]
     }
   }
 }
